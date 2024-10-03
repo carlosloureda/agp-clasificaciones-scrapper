@@ -1,7 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import json
 
 url='http://www.agpool.com/index.php?ctx=competicion&submenu=competicioncoruna'
@@ -10,7 +11,7 @@ driver = webdriver.Chrome()
 driver.get(url)
 
 
-time.sleep(0.5)
+WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "anno")))
 
 # Encontrar el select y seleccionar la opción
 select_temporada = Select(driver.find_element(By.ID, "anno"))
@@ -20,7 +21,7 @@ select_temporada.select_by_value('150')  # Selecciona la opción de A CORUÑA 24
 driver.find_element(By.ID, "cambioano").click()
 
 # Esperar unos segundos para la carga de la nueva página
-time.sleep(0.5)
+WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "indice")))
 
 
 # Clicka en las temporadas
@@ -31,11 +32,8 @@ select_liga.select_by_index(4)
 driver.find_element(By.ID, "clasificacion1").click()
 
 
-time.sleep(0.5)
-
-# 948|2Âª CATEGORÃA CORUÃ‘A
-
 def get_table():
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//table[@border="1"]')))
     # Extraer la tabla de resultados
     table = driver.find_element(By.XPATH, '//table[@border="1"]')
     table_info = ''
