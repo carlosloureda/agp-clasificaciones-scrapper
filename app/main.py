@@ -6,25 +6,9 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from app.utils import clean_text, get_final_segment
+from app.helpers import get_table_page_and_data
 
-def clean_text(text):
-    replacements = {
-        'Ã‘': 'Ñ',
-        'Âª': 'ª',
-        'Ã': 'Í',
-        'Í“': 'Ó',
-        'Âº': 'ª',
-    }
-    
-    for key, value in replacements.items():
-        text = text.replace(key, value)
-    
-    return text
-
-def get_final_segment(input_string):
-    # Split the string by hyphen and get the last segment
-    segments = input_string.split('-')
-    return segments[-1]
 
 def get_temps_info(url, resultados, competicion_key):
     driver.get(url)
@@ -56,19 +40,18 @@ def get_temps_info(url, resultados, competicion_key):
             temporada_key = get_final_segment(anno['text'].lower().replace(' ', '-'))
             resultados[competicion_key][temporada_key] = ligas
 
+            # go back to previous state
             driver.get(url)
             WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "anno")))
             select_temporada = Select(driver.find_element(By.ID, "anno"))
         except (NoSuchElementException, TimeoutException) as e:
             print(f"Error al procesar el año {anno['text']}: {e}")
             continue
-
     # Escribimos el resultado en un archivo JSON
-    with open('resultados_ligas.json', 'w', encoding='utf-8') as json_file:
+    with open('app/resultados_ligas.json', 'w', encoding='utf-8') as json_file:
         json.dump(resultados, json_file, ensure_ascii=False, indent=4)
 
 
-driver = webdriver.Chrome()
 def get_all_temps_info():
     competiciones=['competicioncoruna','competicionlugo','competicionorense','competicionpontevedra']
 
@@ -82,10 +65,32 @@ def get_all_temps_info():
         url = f'http://www.agpool.com/index.php?ctx=competicion&submenu={competicion}'
         competicion_key = competicion.replace('competicion', '').lower()
         get_temps_info(url, resultados, competicion_key)
-    driver.quit()
+    
 
-
-get_all_temps_info()
 # TODO: Use headless browser to scrape data in the server
 # TODO: Scrape data for tables and create a nice json file
 # TODO: Use the jsons in the website and put together both codes
+
+def load_resultados():
+    with open('app/resultados_ligas.json', 'r', encoding='utf-8') as json_file:
+        resultados = json.load(json_file)
+    return resultados
+
+
+
+    
+driver = webdriver.Chrome()
+def main():
+    # get_all_temps_info()
+    # get_all_temps_info2()
+
+    url = f'http://www.agpool.com/index.php?ctx=competicion&submenu=competicioncoruna'
+    # resultados = {
+    #     "coruna": {},
+    # }   
+    resultados = load_resultados()
+    # get_temps_info(url, resultados, 'coruna')
+    get_table_page_and_data(resultados)
+    driver.quit()
+
+main()
