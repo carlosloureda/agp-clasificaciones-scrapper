@@ -10,6 +10,7 @@ from app.utils import clean_text, get_final_segment
 from app.helpers import get_table_page_and_data
 
 
+# For each competition, get the table data and save it to a JSON file (info-ligues.json)
 def get_temps_info(url, resultados, competicion_key):
     driver.get(url)
 
@@ -48,7 +49,7 @@ def get_temps_info(url, resultados, competicion_key):
             print(f"Error al procesar el año {anno['text']}: {e}")
             continue
     # Escribimos el resultado en un archivo JSON
-    with open('app/resultados_ligas.json', 'w', encoding='utf-8') as json_file:
+    with open('data/info-ligues.json', 'w', encoding='utf-8') as json_file:
         json.dump(resultados, json_file, ensure_ascii=False, indent=4)
 
 
@@ -65,32 +66,28 @@ def get_all_temps_info():
         url = f'http://www.agpool.com/index.php?ctx=competicion&submenu={competicion}'
         competicion_key = competicion.replace('competicion', '').lower()
         get_temps_info(url, resultados, competicion_key)
+    return resultados
     
 
 # TODO: Use headless browser to scrape data in the server
 # TODO: Scrape data for tables and create a nice json file
 # TODO: Use the jsons in the website and put together both codes
 
-def load_resultados():
-    with open('app/resultados_ligas.json', 'r', encoding='utf-8') as json_file:
-        resultados = json.load(json_file)
-    return resultados
+# def load_resultados():
+#     with open('app/resultados_ligas.json', 'r', encoding='utf-8') as json_file:
+#         resultados = json.load(json_file)
+#     return resultados
 
 
 
     
 driver = webdriver.Chrome()
 def main():
-    # get_all_temps_info()
-    # get_all_temps_info2()
-
-    url = f'http://www.agpool.com/index.php?ctx=competicion&submenu=competicioncoruna'
-    # resultados = {
-    #     "coruna": {},
-    # }   
-    resultados = load_resultados()
-    # get_temps_info(url, resultados, 'coruna')
-    get_table_page_and_data(resultados)
+    print('1. Scrapping with selenium to get ligues selection info ...')
+    resultados = get_all_temps_info()
+    print('2. Searching for ligue table results ...')
     driver.quit()
+    get_table_page_and_data(resultados)
+    print('3. [DONE]')
 
 main()

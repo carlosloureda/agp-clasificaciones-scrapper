@@ -202,7 +202,7 @@ def get_table_page_and_data(input_json):
                     print(f"Failed to retrieve data for {league['label']}")
 
     # Save results to a JSON file
-    with open('results_with_tables.json', 'w', encoding='utf-8') as json_file:
+    with open('data/results_with_tables.json', 'w', encoding='utf-8') as json_file:
         json.dump(results, json_file, ensure_ascii=False, indent=4)
 
     print("Process complete! Results have been written to results_with_tables.json.")
