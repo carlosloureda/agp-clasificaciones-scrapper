@@ -64,42 +64,99 @@ def get_table_with_bs4(response):
 
 
 
+# def get_specific_table_with_bs4(response):
+#     html = response.text
+
+#     soup = BeautifulSoup(html, 'html.parser')
+
+#     # Locate the specific table by searching for a <div> with text "NOMBRE"
+#     target_table = None
+#     for table in soup.find_all('table'):
+#         if table.find('div', string="NOMBRE"):
+#             target_table = table
+#             break
+
+#     if target_table:
+#         headers = [header.text.strip() for header in target_table.find_all('th')]
+
+#         array_data = []
+#         table_info = ''
+#         rows = target_table.find_all('tr')[1:]  # Skip header row if needed
+
+#         for row in rows:
+#             cells = row.find_all('td')
+#             data = [cell.text.strip() for cell in cells]
+#             if len(data) > 1:
+#                 array_data.append(data)
+#             else:
+#                 table_info += data[0] + ', '
+
+#         json_data = [dict(zip(headers, row)) for row in array_data if len(row) == len(headers)]
+#         json_output = json.dumps(json_data, ensure_ascii=False, indent=4)
+
+#         print(json_output)
+#         print("Additional Info:", table_info)
+#         return json_data
+#     else:
+#         print("No table found with the specified condition")
+#         return None
+
+
 def get_specific_table_with_bs4(response):
+    # Parseamos el HTML
     html = response.text
-
     soup = BeautifulSoup(html, 'html.parser')
-
-    # Locate the specific table by searching for a <div> with text "NOMBRE"
-    target_table = None
-    for table in soup.find_all('table'):
-        if table.find('div', string="NOMBRE"):
-            target_table = table
-            break
-
-    if target_table:
-        headers = [header.text.strip() for header in target_table.find_all('th')]
-
-        array_data = []
-        table_info = ''
-        rows = target_table.find_all('tr')[1:]  # Skip header row if needed
-
-        for row in rows:
-            cells = row.find_all('td')
-            data = [cell.text.strip() for cell in cells]
-            if len(data) > 1:
-                array_data.append(data)
+    
+    # Intentamos encontrar la tabla externa
+    outer_table = soup.find('table', {'width': '100%', 'border': '0', 'align': 'center'})
+    
+    if outer_table is None:
+        # Si no se encuentra la tabla, devolvemos None o un resultado vacío
+        return None  # o return {'tableInfo': [], 'info': []}
+    
+    # Intentamos encontrar la tabla anidada dentro de la tabla externa
+    nested_table = outer_table.find('table', {'border': '1', 'width': '100%'})
+    
+    if nested_table is None:
+        # Si no se encuentra la tabla anidada, devolvemos None o un resultado vacío
+        return None  # o return {'tableInfo': [], 'info': []}
+    
+    # Continuamos con el procesamiento si ambas tablas se encontraron
+    rows = nested_table.find_all('tr')
+    
+    info_texts = []
+    headers = []
+    data_entries = []
+    
+    for row in rows:
+        cols = row.find_all('td')
+        # Si la fila tiene una celda con colspan, es información adicional
+        if len(cols) == 1 and cols[0].get('colspan'):
+            info_text = cols[0].get_text(strip=True)
+            info_texts.append(info_text)
+        elif not headers and len(cols) > 1:
+            # Obtenemos los encabezados, reemplazando claves vacías por 'POS'
+            headers = [col.get_text(strip=True) or 'POS' for col in cols]
+        else:
+            values = [col.get_text(strip=True) for col in cols]
+            if len(values) == len(headers):
+                entry = dict(zip(headers, values))
+                data_entries.append(entry)
             else:
-                table_info += data[0] + ', '
+                # Si el número de valores no coincide con el de encabezados, lo manejamos según sea necesario
+                pass  # Puedes agregar lógica adicional aquí si lo deseas
+    
+    result = {
+        'tableInfo': data_entries,
+        'info': info_texts
+    }
+    
+    return result
 
-        json_data = [dict(zip(headers, row)) for row in array_data if len(row) == len(headers)]
-        json_output = json.dumps(json_data, ensure_ascii=False, indent=4)
 
-        print(json_output)
-        print("Additional Info:", table_info)
-        return json_data
-    else:
-        print("No table found with the specified condition")
-        return None
+
+
+
 
 
 def get_table_page_and_data(input_json):
