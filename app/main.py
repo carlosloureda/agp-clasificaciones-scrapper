@@ -73,13 +73,6 @@ def get_all_temps_info():
 # TODO: Scrape data for tables and create a nice json file
 # TODO: Use the jsons in the website and put together both codes
 
-# def load_resultados():
-#     with open('app/resultados_ligas.json', 'r', encoding='utf-8') as json_file:
-#         resultados = json.load(json_file)
-#     return resultados
-
-
-
     
 driver = webdriver.Chrome()
 def main():
