@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
-from app.utils import clean_text, get_final_segment
+from app.utils import clean_text, custom_slugify, get_final_segment
 from app.helpers import get_table_page_and_data
 
 
@@ -23,7 +23,7 @@ def get_temps_info(url, resultados, competicion_key):
         return
 
     select_temporada = Select(driver.find_element(By.ID, "anno"))
-    annos = [{'value': clean_text(option.get_attribute('value')), 'text': clean_text(option.text)} for option in select_temporada.options]
+    annos = [{'value': custom_slugify(option.get_attribute('value')), 'text': clean_text(option.text)} for option in select_temporada.options]
 
     for anno in annos:
         try:
@@ -35,7 +35,7 @@ def get_temps_info(url, resultados, competicion_key):
             WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.ID, "indice")))
 
             select_liga = Select(driver.find_element(By.ID, "indice"))
-            ligas = [{'value': clean_text(option.get_attribute('value')).replace('|', '-').replace(' ', '-').lower(), 'label': clean_text(option.text)} for option in select_liga.options]
+            ligas = [{'value': custom_slugify(option.get_attribute('value')).replace('|', '-').replace(' ', '-').lower(), 'label': clean_text(option.text)} for option in select_liga.options]
             
             # Guardamos las ligas bajo la temporada dentro de la ciudad 'a-coruna'
             temporada_key = get_final_segment(anno['text'].lower().replace(' ', '-'))
