@@ -5,6 +5,9 @@ def clean_text(text):
         'Ã': 'Í',
         'Í“': 'Ó',
         'Âº': 'ª',
+        'r?a': 'ría',
+        'R?A': 'RÍA',
+        '1?': '1ª'
     }
     
     for key, value in replacements.items():
