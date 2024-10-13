@@ -2,7 +2,7 @@
     "coruna": {
         "24/25": [
             {
-                "label": "RANKING 2a A CORUNA",
+                "ligue": "1083-ranking-2a-a-coruna",
                 "table": {
                     "tableInfo": [
                         {
@@ -291,7 +291,7 @@
                 }
             },
             {
-                "label": "RANKING 2a AS PONTES",
+                "ligue": "1088-ranking-2a-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -328,7 +328,7 @@
                 }
             },
             {
-                "label": "RANKING 2a ORDES",
+                "ligue": "1084-ranking-2a-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -509,7 +509,7 @@
                 }
             },
             {
-                "label": "RANKING 2a SANTIAGO",
+                "ligue": "1085-ranking-2a-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -702,7 +702,7 @@
                 }
             },
             {
-                "label": "RANKING 3a A CORUNA",
+                "ligue": "1093-ranking-3a-a-coruna",
                 "table": {
                     "tableInfo": [
                         {
@@ -1027,7 +1027,7 @@
                 }
             },
             {
-                "label": "RANKING 3a AS PONTES",
+                "ligue": "1096-ranking-3a-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -1112,7 +1112,7 @@
                 }
             },
             {
-                "label": "RANKING 3a ORDES",
+                "ligue": "1095-ranking-3a-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -1305,7 +1305,7 @@
                 }
             },
             {
-                "label": "RANKING 3a SANTIAGO",
+                "ligue": "1094-ranking-3a-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -1618,7 +1618,7 @@
                 }
             },
             {
-                "label": "RANKING 4a A CORUNA",
+                "ligue": "1103-ranking-4a-a-coruna",
                 "table": {
                     "tableInfo": [
                         {
@@ -1703,7 +1703,7 @@
                 }
             },
             {
-                "label": "RANKING 4a AS PONTES",
+                "ligue": "1105-ranking-4a-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -1764,7 +1764,7 @@
                 }
             },
             {
-                "label": "RANKING 4a ORDES",
+                "ligue": "1104-ranking-4a-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -1935,7 +1935,7 @@
         ],
         "23/24": [
             {
-                "label": "2ª CATEGORÍA A CORUÑA",
+                "ligue": "1023-2ª-categoría-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -2299,7 +2299,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA FERROL",
+                "ligue": "1046-2ª-categoría-ferrol",
                 "table": {
                     "tableInfo": [
                         {
@@ -2376,7 +2376,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA ORDES",
+                "ligue": "1025-2ª-categoría-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -2545,7 +2545,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA SANTIAGO",
+                "ligue": "1024-2ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -2766,7 +2766,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA A CORUÑA",
+                "ligue": "1032-3ª-categoría-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -3247,7 +3247,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA ORDES",
+                "ligue": "1033-3ª-categoría-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -3494,7 +3494,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA SANTIAGO",
+                "ligue": "1034-3ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -3780,7 +3780,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍAS AS PONTES",
+                "ligue": "1063-3ª-categorías-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -3818,7 +3818,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA A CORUÑA",
+                "ligue": "1029-4ª-categoría-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -4315,7 +4315,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA AS PONTES",
+                "ligue": "1064-4ª-categoría-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -4524,7 +4524,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA ORDES",
+                "ligue": "1030-4ª-categoría-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -4859,7 +4859,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA SANTIAGO",
+                "ligue": "1044-4ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -5284,7 +5284,7 @@
                 }
             },
             {
-                "label": "ABSOLUTO 7 PIES",
+                "ligue": "1050-absoluto-7-pies",
                 "table": {
                     "tableInfo": [
                         {
@@ -6496,7 +6496,7 @@
                 }
             },
             {
-                "label": "APRILE CUP 24",
+                "ligue": "1054-aprile-cup-24",
                 "table": {
                     "tableInfo": [
                         {
@@ -12180,7 +12180,7 @@
                 }
             },
             {
-                "label": "RANKING JUNIOR ORDES",
+                "ligue": "1076-ranking-junior-ordes",
                 "table": {
                     "tableInfo": [
                         {
@@ -12274,7 +12274,7 @@
                 }
             },
             {
-                "label": "RANKING JUNIOR SANTIAGO",
+                "ligue": "1077-ranking-junior-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -12440,7 +12440,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 1ª CATEGORÍA",
+                "ligue": "1072-ranking-las-vegas-1ª-categoría",
                 "table": {
                     "tableInfo": [
                         {
@@ -12620,7 +12620,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª A CORUÑA",
+                "ligue": "1067-ranking-las-vegas-2ª-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -12704,7 +12704,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª SANTIAGO",
+                "ligue": "1068-ranking-las-vegas-2ª-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -12800,7 +12800,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 3ª A CORUÑA",
+                "ligue": "1060-ranking-las-vegas-3ª-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -12946,7 +12946,7 @@
         ],
         "22/23": [
             {
-                "label": "2ª CATEGORÍA CORUÑA",
+                "ligue": "975-2ª-categoría-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -13320,7 +13320,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA FERROL",
+                "ligue": "998-2ª-categoría-ferrol",
                 "table": {
                     "tableInfo": [
                         {
@@ -13382,7 +13382,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA SANTIAGO",
+                "ligue": "977-2ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -13588,7 +13588,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA AS PONTES",
+                "ligue": "1017-3ª-categoría-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -13652,7 +13652,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA CORUÑA",
+                "ligue": "984-3ª-categoría-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -14002,7 +14002,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA ÓRDENES",
+                "ligue": "987-3ª-categoría-órdenes",
                 "table": {
                     "tableInfo": [
                         {
@@ -14232,7 +14232,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA SANTIAGO",
+                "ligue": "985-3ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -14426,7 +14426,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA AS PONTES",
+                "ligue": "1018-4ª-categoría-as-pontes",
                 "table": {
                     "tableInfo": [
                         {
@@ -14526,7 +14526,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA CORUÑA",
+                "ligue": "994-4ª-categoría-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -14838,7 +14838,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORIA ORDENES",
+                "ligue": "995-4ª-categoria-ordenes",
                 "table": {
                     "tableInfo": [
                         {
@@ -15210,7 +15210,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA SANTIAGO",
+                "ligue": "996-4ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -15426,7 +15426,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 1ª CATEGORÍA NORTE",
+                "ligue": "1004-las-vegas-1ª-categoría-norte",
                 "table": {
                     "tableInfo": [
                         {
@@ -15487,7 +15487,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA A CORUÑA",
+                "ligue": "1008-las-vegas-2ª-categoría-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -15620,7 +15620,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA SANTIAGO",
+                "ligue": "1009-las-vegas-2ª-categoría-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -15704,7 +15704,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA A CORUÑA",
+                "ligue": "1011-las-vegas-3ª-categoría-a-coruña",
                 "table": {
                     "tableInfo": [
                         {
@@ -15825,7 +15825,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA ÓRDENES / SANTIAGO",
+                "ligue": "1012-las-vegas-3ª-categoría-órdenes-/-santiago",
                 "table": {
                     "tableInfo": [
                         {
@@ -15972,41 +15972,41 @@
         ],
         "21/22": [
             {
-                "label": "21/22 LIGA INDIVIDUAL O BOSQUE",
+                "ligue": "2471-21/22-liga-individual-o-bosque",
                 "table": null
             }
         ],
         "20/21": [
             {
-                "label": "20/21 LIGA GALLEGA CORUÑA",
+                "ligue": "2456-20/21-liga-gallega-coruña",
                 "table": null
             },
             {
-                "label": "20/21 LIGA GALLEGA SANTIAGO",
+                "ligue": "2457-20/21-liga-gallega-santiago",
                 "table": null
             }
         ],
         "19/20": [
             {
-                "label": "19/20 LIGA GALLEGA CORUÑA",
+                "ligue": "2412-19/20-liga-gallega-coruña",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA SANTIAGO",
+                "ligue": "2403-19/20-liga-gallega-santiago",
                 "table": null
             }
         ],
         "18/19": [
             {
-                "label": "18/19 LIGA NACIONAL CORUÑA 2ª Y 3ª A",
+                "ligue": "2281-18/19-liga-nacional-coruña-2ª-y-3ª-a",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL CORUÑA 2ª Y 3ª B",
+                "ligue": "2282-18/19-liga-nacional-coruña-2ª-y-3ª-b",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL SANTIAGO 3ª NIVEL",
+                "ligue": "2280-18/19-liga-nacional-santiago-3ª-nivel",
                 "table": null
             }
         ]
@@ -16014,7 +16014,7 @@
     "lugo": {
         "24/25": [
             {
-                "label": "RANKING 2a A COSTA",
+                "ligue": "1087-ranking-2a-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -16123,7 +16123,7 @@
                 }
             },
             {
-                "label": "RANKING 2a LUGO",
+                "ligue": "1086-ranking-2a-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -16460,7 +16460,7 @@
                 }
             },
             {
-                "label": "RANKING 3a A COSTA",
+                "ligue": "1106-ranking-3a-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -16581,7 +16581,7 @@
                 }
             },
             {
-                "label": "RANKING 3a LUGO",
+                "ligue": "1098-ranking-3a-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -16894,7 +16894,7 @@
                 }
             },
             {
-                "label": "RANKING 4a A COSTA",
+                "ligue": "1108-ranking-4a-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -16943,7 +16943,7 @@
                 }
             },
             {
-                "label": "RANKING 4a LUGO",
+                "ligue": "1107-ranking-4a-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -17054,7 +17054,7 @@
         ],
         "23/24": [
             {
-                "label": "2ª CATEGORÍA A COSTA",
+                "ligue": "1027-2ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -17132,7 +17132,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA LUGO",
+                "ligue": "1026-2ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -17561,7 +17561,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA A COSTA",
+                "ligue": "1038-3ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -17717,7 +17717,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA LUGO",
+                "ligue": "1037-3ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -18198,7 +18198,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA A COSTA",
+                "ligue": "1049-4ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -18443,7 +18443,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA LUGO",
+                "ligue": "1042-4ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -18868,7 +18868,7 @@
                 }
             },
             {
-                "label": "ABSOLUTO 7 PIES",
+                "ligue": "1051-absoluto-7-pies",
                 "table": {
                     "tableInfo": [
                         {
@@ -20080,7 +20080,7 @@
                 }
             },
             {
-                "label": "APRILE CUP 24",
+                "ligue": "1055-aprile-cup-24",
                 "table": {
                     "tableInfo": [
                         {
@@ -25764,7 +25764,7 @@
                 }
             },
             {
-                "label": "RANKING JUNIOR LUGO",
+                "ligue": "1075-ranking-junior-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -25882,7 +25882,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 1ª CATEGORÍA",
+                "ligue": "1073-ranking-las-vegas-1ª-categoría",
                 "table": {
                     "tableInfo": [
                         {
@@ -26062,7 +26062,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª LUGO",
+                "ligue": "1069-ranking-las-vegas-2ª-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -26218,7 +26218,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 3ª LUGO",
+                "ligue": "1061-ranking-las-vegas-3ª-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -26364,7 +26364,7 @@
         ],
         "22/23": [
             {
-                "label": "2ª CATEGORÍA A COSTA",
+                "ligue": "974-2ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -26426,7 +26426,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA LUGO",
+                "ligue": "972-2ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -26800,7 +26800,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA A COSTA",
+                "ligue": "978-3ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -26874,7 +26874,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA LUGO",
+                "ligue": "983-3ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -27152,7 +27152,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA A COSTA",
+                "ligue": "989-4ª-categoría-a-costa",
                 "table": {
                     "tableInfo": [
                         {
@@ -27212,7 +27212,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA LUGO",
+                "ligue": "993-4ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -27392,7 +27392,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 1ª CATEGORÍA NORTE",
+                "ligue": "1003-las-vegas-1ª-categoría-norte",
                 "table": {
                     "tableInfo": [
                         {
@@ -27453,7 +27453,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA LUGO",
+                "ligue": "1010-las-vegas-2ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -27526,7 +27526,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA LUGO",
+                "ligue": "1013-las-vegas-3ª-categoría-lugo",
                 "table": {
                     "tableInfo": [
                         {
@@ -27649,69 +27649,69 @@
         ],
         "21/22": [
             {
-                "label": "21/22 1ª FASE LIGA INDIVIDUAL SYLT",
+                "ligue": "2485-21/22-1ª-fase-liga-individual-sylt",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL 3ª LUGO",
+                "ligue": "2470-21/22-liga-individual-3ª-lugo",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL A COSTA",
+                "ligue": "2472-21/22-liga-individual-a-costa",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL SENIOR LUGO",
+                "ligue": "2484-21/22-liga-individual-senior-lugo",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL SENIOR OMEGA",
+                "ligue": "2480-21/22-liga-individual-senior-omega",
                 "table": null
             }
         ],
         "20/21": [
             {
-                "label": "20/21 LIGA GALLEGA LUGO",
+                "ligue": "2429-20/21-liga-gallega-lugo",
                 "table": null
             }
         ],
         "19/20": [
             {
-                "label": "10/20 1ª FASE LIGA GALLEGA LUGO GRUPO C",
+                "ligue": "2312-10/20-1ª-fase-liga-gallega-lugo-grupo-c",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA LUGO GRUPO A",
+                "ligue": "2310-19/20-1ª-fase-liga-gallega-lugo-grupo-a",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA LUGO GRUPO B",
+                "ligue": "2311-19/20-1ª-fase-liga-gallega-lugo-grupo-b",
                 "table": null
             },
             {
-                "label": "19/20 2ª FASE LIGA GALLEGA LUGO GALLEGO",
+                "ligue": "2407-19/20-2ª-fase-liga-gallega-lugo-gallego",
                 "table": null
             },
             {
-                "label": "19/20 2ª FASE LIGA GALLEGA LUGO PREMIOS",
+                "ligue": "2406-19/20-2ª-fase-liga-gallega-lugo-premios",
                 "table": null
             }
         ],
         "18/19": [
             {
-                "label": "18/19 2ª LIGA NACIONAL DE EQUIPOS LUGO",
+                "ligue": "2284-18/19-2ª-liga-nacional-de-equipos-lugo",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL LUGO 1ª Y 2ª NIVEL",
+                "ligue": "2271-18/19-liga-nacional-lugo-1ª-y-2ª-nivel",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL LUGO 3ª NIVEL OPEN P",
+                "ligue": "2272-18/19-liga-nacional-lugo-3ª-nivel-open-p",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL LUGO 3ª NIVEL T. MOD",
+                "ligue": "2275-18/19-liga-nacional-lugo-3ª-nivel-t.-mod",
                 "table": null
             }
         ]
@@ -27719,7 +27719,7 @@
     "orense": {
         "24/25": [
             {
-                "label": "RANKING 2a OURENSE",
+                "ligue": "1082-ranking-2a-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -27852,7 +27852,7 @@
                 }
             },
             {
-                "label": "RANKING 3a OURENSE",
+                "ligue": "1097-ranking-3a-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -27973,7 +27973,7 @@
                 }
             },
             {
-                "label": "RANKING 4a OURENSE",
+                "ligue": "1099-ranking-4a-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -28024,7 +28024,7 @@
         ],
         "23/24": [
             {
-                "label": "2ª CATEGORÍA OURENSE",
+                "ligue": "1022-2ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -28284,7 +28284,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA OURENSE",
+                "ligue": "1039-3ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -28492,7 +28492,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA OURENSE",
+                "ligue": "1028-4ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -28629,7 +28629,7 @@
                 }
             },
             {
-                "label": "ABSOLUTO 7 PIES",
+                "ligue": "1052-absoluto-7-pies",
                 "table": {
                     "tableInfo": [
                         {
@@ -29841,7 +29841,7 @@
                 }
             },
             {
-                "label": "APRILE CUP 24",
+                "ligue": "1056-aprile-cup-24",
                 "table": {
                     "tableInfo": [
                         {
@@ -35525,7 +35525,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 1? CATEGOR?A",
+                "ligue": "1074-ranking-las-vegas-1?-categor?a",
                 "table": {
                     "tableInfo": [
                         {
@@ -35705,7 +35705,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª OURENSE",
+                "ligue": "1070-ranking-las-vegas-2ª-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -35753,7 +35753,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 3ª OURENSE",
+                "ligue": "1062-ranking-las-vegas-3ª-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -35815,7 +35815,7 @@
         ],
         "22/23": [
             {
-                "label": "2ª CATEGORÍA OURENSE",
+                "ligue": "971-2ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -36069,7 +36069,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA OURENSE",
+                "ligue": "980-3ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -36275,7 +36275,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA OURENSE",
+                "ligue": "999-4ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -36371,7 +36371,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 1ª CATEGORÍA SUR",
+                "ligue": "1002-las-vegas-1ª-categoría-sur",
                 "table": {
                     "tableInfo": [
                         {
@@ -36576,7 +36576,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA OURENSE",
+                "ligue": "1007-las-vegas-2ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -36721,7 +36721,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA OURENSE",
+                "ligue": "1014-las-vegas-3ª-categoría-ourense",
                 "table": {
                     "tableInfo": [
                         {
@@ -36822,13 +36822,13 @@
         "20/21": [],
         "19/20": [
             {
-                "label": "19/20 LIGA GALLEGA ORENSE",
+                "ligue": "2404-19/20-liga-gallega-orense",
                 "table": null
             }
         ],
         "18/19": [
             {
-                "label": "18/19 LIGA NACIONAL ORENSE",
+                "ligue": "2268-18/19-liga-nacional-orense",
                 "table": null
             }
         ]
@@ -36836,7 +36836,7 @@
     "pontevedra": {
         "24/25": [
             {
-                "label": "RANKING 2a MORRAZO",
+                "ligue": "1080-ranking-2a-morrazo",
                 "table": {
                     "tableInfo": [
                         {
@@ -37053,7 +37053,7 @@
                 }
             },
             {
-                "label": "RANKING 2a SALNES",
+                "ligue": "1081-ranking-2a-salnes",
                 "table": {
                     "tableInfo": [
                         {
@@ -37210,7 +37210,7 @@
                 }
             },
             {
-                "label": "RANKING 2a VIGO",
+                "ligue": "1079-ranking-2a-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -37715,7 +37715,7 @@
                 }
             },
             {
-                "label": "RANKING 3a CONDADO",
+                "ligue": "1092-ranking-3a-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -37776,7 +37776,7 @@
                 }
             },
             {
-                "label": "RANKING 3a MORRAZO / PONTEVEDRA",
+                "ligue": "1090-ranking-3a-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -38197,7 +38197,7 @@
                 }
             },
             {
-                "label": "RANKING 3a SALNES",
+                "ligue": "1091-ranking-3a-salnes",
                 "table": {
                     "tableInfo": [
                         {
@@ -38402,7 +38402,7 @@
                 }
             },
             {
-                "label": "RANKING 3a VIGO",
+                "ligue": "1089-ranking-3a-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -39087,7 +39087,7 @@
                 }
             },
             {
-                "label": "RANKING 4a CONDADO",
+                "ligue": "1102-ranking-4a-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -39148,7 +39148,7 @@
                 }
             },
             {
-                "label": "RANKING 4a MORRAZO / PONTEVEDRA",
+                "ligue": "1100-ranking-4a-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -39197,7 +39197,7 @@
                 }
             },
             {
-                "label": "RANKING 4a SALNES",
+                "ligue": "1101-ranking-4a-salnes",
                 "table": {
                     "tableInfo": [
                         {
@@ -39234,7 +39234,7 @@
                 }
             },
             {
-                "label": "RANKING 4a VIGO",
+                "ligue": "1109-ranking-4a-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -39417,7 +39417,7 @@
         ],
         "23/24": [
             {
-                "label": "2ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "1020-2ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -39742,7 +39742,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA SALNÍ‰S",
+                "ligue": "1021-2ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -39976,7 +39976,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA VIGO",
+                "ligue": "1019-2ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -40470,7 +40470,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA BAIXO MIÑO / CONDADO",
+                "ligue": "1040-3ª-categoría-baixo-miño-/-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -40704,7 +40704,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "1035-3ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -41302,7 +41302,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA SALNÍ‰S",
+                "ligue": "1043-3ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -41627,7 +41627,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA VIGO",
+                "ligue": "1031-3ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -42394,7 +42394,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA BAIXO MIÑO / CONDADO",
+                "ligue": "1041-4ª-categoría-baixo-miño-/-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -42531,7 +42531,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "1036-4ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -42650,7 +42650,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA SALNÍ‰S",
+                "ligue": "1045-4ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -42685,7 +42685,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA VIGO A",
+                "ligue": "1047-4ª-categoría-vigo-a",
                 "table": {
                     "tableInfo": [
                         {
@@ -42966,7 +42966,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA VIGO B",
+                "ligue": "1048-4ª-categoría-vigo-b",
                 "table": {
                     "tableInfo": [
                         {
@@ -43211,7 +43211,7 @@
                 }
             },
             {
-                "label": "ABSOLUTO 7 PIES",
+                "ligue": "1053-absoluto-7-pies",
                 "table": {
                     "tableInfo": [
                         {
@@ -44423,7 +44423,7 @@
                 }
             },
             {
-                "label": "APRILE CUP 24",
+                "ligue": "1057-aprile-cup-24",
                 "table": {
                     "tableInfo": [
                         {
@@ -50107,7 +50107,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 1ª CATEGORÍA",
+                "ligue": "1071-ranking-las-vegas-1ª-categoría",
                 "table": {
                     "tableInfo": [
                         {
@@ -50287,7 +50287,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª MORRAZO / SALNÍ‰S",
+                "ligue": "1065-ranking-las-vegas-2ª-morrazo-/-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -50467,7 +50467,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 2ª VIGO",
+                "ligue": "1066-ranking-las-vegas-2ª-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -50575,7 +50575,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 3ª MORRAZO SALNES",
+                "ligue": "1058-ranking-las-vegas-3ª-morrazo-salnes",
                 "table": {
                     "tableInfo": [
                         {
@@ -50779,7 +50779,7 @@
                 }
             },
             {
-                "label": "RANKING LAS VEGAS 3ª VIGO / BM / VM / CO",
+                "ligue": "1059-ranking-las-vegas-3ª-vigo-/-bm-/-vm-/-co",
                 "table": {
                     "tableInfo": [
                         {
@@ -51105,7 +51105,7 @@
         ],
         "22/23": [
             {
-                "label": "2ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "973-2ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -51443,7 +51443,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA SALNÍ‰S",
+                "ligue": "976-2ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -51625,7 +51625,7 @@
                 }
             },
             {
-                "label": "2ª CATEGORÍA VIGO",
+                "ligue": "970-2ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -52107,7 +52107,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA BAIXO MIÑO / VAL MIÑOR / CONDADO",
+                "ligue": "979-3ª-categoría-baixo-miño-/-val-miñor-/-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -52385,7 +52385,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "981-3ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -52819,7 +52819,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA SALNÍ‰S",
+                "ligue": "982-3ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -53097,7 +53097,7 @@
                 }
             },
             {
-                "label": "3ª CATEGORÍA VIGO",
+                "ligue": "986-3ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -53567,7 +53567,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA BAIXO MIÑO / VAL MIÑOR / CONDADO",
+                "ligue": "990-4ª-categoría-baixo-miño-/-val-miñor-/-condado",
                 "table": {
                     "tableInfo": [
                         {
@@ -53675,7 +53675,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA MORRAZO / PONTEVEDRA",
+                "ligue": "992-4ª-categoría-morrazo-/-pontevedra",
                 "table": {
                     "tableInfo": [
                         {
@@ -53831,7 +53831,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA SALNÍ‰S",
+                "ligue": "991-4ª-categoría-salní‰s",
                 "table": {
                     "tableInfo": [
                         {
@@ -53867,7 +53867,7 @@
                 }
             },
             {
-                "label": "4ª CATEGORÍA VIGO",
+                "ligue": "988-4ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -54143,7 +54143,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 1ª CATEGORÍA SUR",
+                "ligue": "1001-las-vegas-1ª-categoría-sur",
                 "table": {
                     "tableInfo": [
                         {
@@ -54348,7 +54348,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA PO / MO / SAL",
+                "ligue": "1005-las-vegas-2ª-categoría-po-/-mo-/-sal",
                 "table": {
                     "tableInfo": [
                         {
@@ -54589,7 +54589,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 2ª CATEGORÍA VIGO",
+                "ligue": "1006-las-vegas-2ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -54734,7 +54734,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA PO / MO / SAL",
+                "ligue": "1016-las-vegas-3ª-categoría-po-/-mo-/-sal",
                 "table": {
                     "tableInfo": [
                         {
@@ -54963,7 +54963,7 @@
                 }
             },
             {
-                "label": "LAS VEGAS 3ª CATEGORÍA VIGO",
+                "ligue": "1015-las-vegas-3ª-categoría-vigo",
                 "table": {
                     "tableInfo": [
                         {
@@ -55230,137 +55230,137 @@
         ],
         "21/22": [
             {
-                "label": "21/22 LIGA EQUIPOS AMATEUR BOX 46",
+                "ligue": "2476-21/22-liga-equipos-amateur-box-46",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL 3ª VIGO GRUPO A",
+                "ligue": "2482-21/22-liga-individual-3ª-vigo-grupo-a",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL 3ª VIGO GRUPO B",
+                "ligue": "2483-21/22-liga-individual-3ª-vigo-grupo-b",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL GOYA",
+                "ligue": "2486-21/22-liga-individual-goya",
                 "table": null
             },
             {
-                "label": "21/22 LIGA INDIVIDUAL LA GUARDIA",
+                "ligue": "2469-21/22-liga-individual-la-guardia",
                 "table": null
             },
             {
-                "label": "21/22 LIGA POOLEROS DEL MORRAZO A",
+                "ligue": "2473-21/22-liga-pooleros-del-morrazo-a",
                 "table": null
             },
             {
-                "label": "21/22 LIGA POOLEROS DEL MORRAZO B",
+                "ligue": "2474-21/22-liga-pooleros-del-morrazo-b",
                 "table": null
             },
             {
-                "label": "21/22 LIGA POOLEROS DEL MORRAZO C",
+                "ligue": "2475-21/22-liga-pooleros-del-morrazo-c",
                 "table": null
             }
         ],
         "20/21": [
             {
-                "label": "20/21 LIGA GALLEGA 2ª MORRAZO",
+                "ligue": "2454-20/21-liga-gallega-2ª-morrazo",
                 "table": null
             },
             {
-                "label": "20/21 LIGA GALLEGA 3ª MORRAZO",
+                "ligue": "2455-20/21-liga-gallega-3ª-morrazo",
                 "table": null
             },
             {
-                "label": "20/21 LIGA GALLEGA PONTEVEDRA SUR A",
+                "ligue": "2451-20/21-liga-gallega-pontevedra-sur-a",
                 "table": null
             },
             {
-                "label": "20/21 LIGA GALLEGA PONTEVEDRA SUR B",
+                "ligue": "2452-20/21-liga-gallega-pontevedra-sur-b",
                 "table": null
             },
             {
-                "label": "20/21 LIGA GALLEGA PONTEVEDRA SUR C",
+                "ligue": "2464-20/21-liga-gallega-pontevedra-sur-c",
                 "table": null
             }
         ],
         "19/20": [
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA PONTEVEDRA GA",
+                "ligue": "2320-19/20-1ª-fase-liga-gallega-pontevedra-ga",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA PONTEVEDRA GB",
+                "ligue": "2315-19/20-1ª-fase-liga-gallega-pontevedra-gb",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA PONTEVEDRA GC",
+                "ligue": "2316-19/20-1ª-fase-liga-gallega-pontevedra-gc",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA PONTEVEDRA GD",
+                "ligue": "2322-19/20-1ª-fase-liga-gallega-pontevedra-gd",
                 "table": null
             },
             {
-                "label": "19/20 1ª FASE LIGA GALLEGA PONTEVEDRA GE",
+                "ligue": "2318-19/20-1ª-fase-liga-gallega-pontevedra-ge",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA 1ª PONTEVEDRA",
+                "ligue": "2387-19/20-liga-gallega-1ª-pontevedra",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA PONTEVEDRA G1 PREMIOS",
+                "ligue": "2413-19/20-liga-gallega-pontevedra-g1-premios",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA PONTEVEDRA G2 PREMIOS",
+                "ligue": "2414-19/20-liga-gallega-pontevedra-g2-premios",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA PONTEVEDRA GA GALLEGO",
+                "ligue": "2375-19/20-liga-gallega-pontevedra-ga-gallego",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA PONTEVEDRA GB GALLEGO",
+                "ligue": "2401-19/20-liga-gallega-pontevedra-gb-gallego",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA PONTEVEDRA GC GALLEGO",
+                "ligue": "2402-19/20-liga-gallega-pontevedra-gc-gallego",
                 "table": null
             },
             {
-                "label": "19/20 LIGA GALLEGA SALNES",
+                "ligue": "2410-19/20-liga-gallega-salnes",
                 "table": null
             }
         ],
         "18/19": [
             {
-                "label": "18/19 LIGA NACIONAL 2ª NIVEL MORRAZO",
+                "ligue": "2277-18/19-liga-nacional-2ª-nivel-morrazo",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL 3ª NIVEL MORRAZO",
+                "ligue": "2276-18/19-liga-nacional-3ª-nivel-morrazo",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL 3ª NIVEL SALNES",
+                "ligue": "2285-18/19-liga-nacional-3ª-nivel-salnes",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL CONDADO",
+                "ligue": "2270-18/19-liga-nacional-condado",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL VAL MIÑOR",
+                "ligue": "2269-18/19-liga-nacional-val-miñor",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL VIGO A",
+                "ligue": "2278-18/19-liga-nacional-vigo-a",
                 "table": null
             },
             {
-                "label": "18/19 LIGA NACIONAL VIGO B",
+                "ligue": "2279-18/19-liga-nacional-vigo-b",
                 "table": null
             }
         ]

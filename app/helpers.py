@@ -88,7 +88,7 @@ def get_table_page_and_data(input_json):
                     table_data = get_specific_table_with_bs4(response)  # Replace with your logic
                     # table_data = 'sdfsd' # Replace with your logic
                     league_entry = {
-                        'label': league['label'],
+                        'ligue': league['value'],
                         'table': table_data
                     }
 
