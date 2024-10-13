@@ -7,7 +7,8 @@ def clean_text(text):
         'Âº': 'ª',
         'r?a': 'ría',
         'R?A': 'RÍA',
-        '1?': '1ª'
+        '1?': '1ª',
+        'í‰': 'e'
     }
     
     for key, value in replacements.items():
