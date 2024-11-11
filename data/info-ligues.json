@@ -44,6 +44,14 @@
             {
                 "value": "1104-ranking-4a-ordes",
                 "label": "RANKING 4a ORDES"
+            },
+            {
+                "value": "1110-ranking-4a-santiago-a",
+                "label": "RANKING 4a SANTIAGO A"
+            },
+            {
+                "value": "1111-ranking-4a-santiago-b",
+                "label": "RANKING 4a SANTIAGO B"
             }
         ],
         "23/24": [
@@ -250,12 +258,20 @@
                 "label": "RANKING 3a A COSTA"
             },
             {
+                "value": "1112-ranking-3a-chantada",
+                "label": "RANKING 3a CHANTADA"
+            },
+            {
                 "value": "1098-ranking-3a-lugo",
                 "label": "RANKING 3a LUGO"
             },
             {
                 "value": "1108-ranking-4a-a-costa",
                 "label": "RANKING 4a A COSTA"
+            },
+            {
+                "value": "1113-ranking-4a-chantada",
+                "label": "RANKING 4a CHANTADA"
             },
             {
                 "value": "1107-ranking-4a-lugo",
