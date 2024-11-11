@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.webdriver.chrome.options import Options
 from app.utils import clean_text, custom_slugify, get_final_segment
 from app.helpers import get_table_page_and_data
 
@@ -69,12 +70,16 @@ def get_all_temps_info():
     return resultados
     
 
-# TODO: Use headless browser to scrape data in the server
-# TODO: Scrape data for tables and create a nice json file
-# TODO: Use the jsons in the website and put together both codes
+# TODO: Scrape all the tables in a view (we only get 1)
+# TODO: Srape also weird tables
+# TODO: Deploy and auto run 
 
-    
-driver = webdriver.Chrome()
+# Set up headless Chrome
+options = Options()
+options.add_argument("--headless=new") 
+driver = webdriver.Chrome(options=options)
+
+# options.add_argument("--window-size=1920x1080")  # Opti
 def main():
     print('1. Scrapping with selenium to get ligues selection info ...')
     resultados = get_all_temps_info()
