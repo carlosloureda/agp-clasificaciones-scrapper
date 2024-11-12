@@ -44,9 +44,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Documentation
-docs/_build/
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
