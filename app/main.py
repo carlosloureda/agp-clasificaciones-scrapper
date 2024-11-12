@@ -83,11 +83,11 @@ driver = webdriver.Chrome(options=options)
 logging.basicConfig(level=logging.INFO)
 
 def main():
-    # logging.info("1. Scrapping with selenium to get ligues selection info ...")
-    # resultados = get_all_temps_info()
-    # logging.info("2. Searching for ligue table results ...")
-    # driver.quit()
-    # get_table_page_and_data(resultados)
+    logging.info("1. Scrapping with selenium to get ligues selection info ...")
+    resultados = get_all_temps_info()
+    logging.info("2. Searching for ligue table results ...")
+    driver.quit()
+    get_table_page_and_data(resultados)
     logging.info("3. [DONE]")
 
 main()
