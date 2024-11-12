@@ -9,6 +9,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 from app.utils import clean_text, custom_slugify, get_final_segment
 from app.helpers import get_table_page_and_data
+import logging
 
 
 # For each competition, get the table data and save it to a JSON file (info-ligues.json)
@@ -79,13 +80,14 @@ options = Options()
 options.add_argument("--headless=new") 
 driver = webdriver.Chrome(options=options)
 
-# options.add_argument("--window-size=1920x1080")  # Opti
+logging.basicConfig(level=logging.INFO)
+
 def main():
-    print('1. Scrapping with selenium to get ligues selection info ...')
-    resultados = get_all_temps_info()
-    print('2. Searching for ligue table results ...')
-    driver.quit()
-    get_table_page_and_data(resultados)
-    print('3. [DONE]')
+    # logging.info("1. Scrapping with selenium to get ligues selection info ...")
+    # resultados = get_all_temps_info()
+    # logging.info("2. Searching for ligue table results ...")
+    # driver.quit()
+    # get_table_page_and_data(resultados)
+    logging.info("3. [DONE]")
 
 main()
