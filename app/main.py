@@ -37,7 +37,10 @@ def get_temps_info(url, resultados, competicion_key):
             WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.ID, "indice")))
 
             select_liga = Select(driver.find_element(By.ID, "indice"))
-            ligas = [{'value': custom_slugify(option.get_attribute('value')).replace('|', '-').replace(' ', '-').lower(), 'label': clean_text(option.text)} for option in select_liga.options]
+            ligas = [{
+                'value': custom_slugify(option.get_attribute('value')).replace('|', '-').replace(' ', '-').lower(), 
+                'label': clean_text(option.text)
+            } for option in select_liga.options]
             
             # Guardamos las ligas bajo la temporada dentro de la ciudad 'a-coruna'
             temporada_key = get_final_segment(anno['text'].lower().replace(' ', '-'))

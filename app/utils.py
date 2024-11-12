@@ -14,11 +14,13 @@ def clean_text(text):
         'R?A': 'RÍA',
         '1?': '1ª',
         'í‰': 'e',
-        'i%0': 'e'   
+        'i%0': 'e',
+        'Í‰': 'E'
     }
     
     for key, value in replacements.items():
         text = text.replace(key, value)
+
     return text
 
 def custom_slugify(text):
