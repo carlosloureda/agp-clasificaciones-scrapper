@@ -33,6 +33,7 @@ jobs:
       - name: Prepare GitHub Pages output
         run: |
           mkdir -p docs
+          touch docs/.nojekyll
           cp data/*.json docs/  # Copia los JSON generados a `docs`
 
       # Configurar Git y hacer commit de los JSON generados
