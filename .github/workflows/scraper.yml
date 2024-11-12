@@ -1,9 +1,9 @@
 name: Run Scraper and Deploy JSON to GitHub Pages
 
-# Programar el job para que corra diariamente a las 12:00 AM UTC
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every weekday (Monday to Friday) at 13 AM UTC
+    - cron: "0 13 * * 1-5"
   workflow_dispatch: # Permite ejecución manual
 
 jobs:
@@ -46,6 +46,8 @@ jobs:
 
       # Push al repositorio
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull origin main  # Asegúrate de que esté sincronizado antes del push
+          git push origin HEAD:main
