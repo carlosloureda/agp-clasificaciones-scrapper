@@ -3824,11 +3824,11 @@
                             "NOMBRE": "JOSE MANUEL GOMEZ QUINTELA",
                             "P1": "14",
                             "P2": "8",
-                            "P3": "",
-                            "PF": "23",
-                            "PC": "13",
-                            "DP": "10",
-                            "PT": "22"
+                            "P3": "10",
+                            "PF": "35",
+                            "PC": "22",
+                            "DP": "13",
+                            "PT": "32"
                         },
                         {
                             "POS": "2",
@@ -3836,11 +3836,11 @@
                             "NOMBRE": "YAHYA EL YEMLAHI",
                             "P1": "7",
                             "P2": "14",
-                            "P3": "",
-                            "PF": "25",
-                            "PC": "12",
+                            "P3": "7",
+                            "PF": "31",
+                            "PC": "18",
                             "DP": "13",
-                            "PT": "21"
+                            "PT": "28"
                         },
                         {
                             "POS": "3",
@@ -3848,14 +3848,86 @@
                             "NOMBRE": "JOSUE TENA MORALES",
                             "P1": "8",
                             "P2": "10",
-                            "P3": "",
-                            "PF": "18",
-                            "PC": "12",
-                            "DP": "6",
-                            "PT": "18"
+                            "P3": "8",
+                            "PF": "26",
+                            "PC": "15",
+                            "DP": "11",
+                            "PT": "26"
                         },
                         {
                             "POS": "4",
+                            "AGP": "18559",
+                            "NOMBRE": "NELSON RUBEN RODRIGUEZ HERRERA",
+                            "P1": "7",
+                            "P2": "8",
+                            "P3": "8",
+                            "PF": "19",
+                            "PC": "18",
+                            "DP": "1",
+                            "PT": "23"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "18695",
+                            "NOMBRE": "FRANCISCO JOSE PRIETO ALVAREZ",
+                            "P1": "10",
+                            "P2": "6",
+                            "P3": "7",
+                            "PF": "18",
+                            "PC": "19",
+                            "DP": "-1",
+                            "PT": "23"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "18598",
+                            "NOMBRE": "AINARA PUGA LOPES",
+                            "P1": "7",
+                            "P2": "5",
+                            "P3": "7",
+                            "PF": "9",
+                            "PC": "17",
+                            "DP": "-8",
+                            "PT": "19"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "18021",
+                            "NOMBRE": "ADAN CARBAJALES GARCIA",
+                            "P1": "6",
+                            "P2": "6",
+                            "P3": "6",
+                            "PF": "13",
+                            "PC": "19",
+                            "DP": "-6",
+                            "PT": "18"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "14066",
+                            "NOMBRE": "MARIO BARRAL LAFUENTE",
+                            "P1": "6",
+                            "P2": "5",
+                            "P3": "7",
+                            "PF": "8",
+                            "PC": "17",
+                            "DP": "-9",
+                            "PT": "18"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "14428",
+                            "NOMBRE": "MARCOS VIGO PEDROUZO",
+                            "P1": "6",
+                            "P2": "5",
+                            "P3": "6",
+                            "PF": "9",
+                            "PC": "19",
+                            "DP": "-10",
+                            "PT": "17"
+                        },
+                        {
+                            "POS": "10",
                             "AGP": "18296",
                             "NOMBRE": "LEONARDO JOSE SIERRA PEDRIDO",
                             "P1": "6",
@@ -3867,19 +3939,7 @@
                             "PT": "17"
                         },
                         {
-                            "POS": "5",
-                            "AGP": "18695",
-                            "NOMBRE": "FRANCISCO JOSE PRIETO ALVAREZ",
-                            "P1": "10",
-                            "P2": "6",
-                            "P3": "",
-                            "PF": "12",
-                            "PC": "12",
-                            "DP": "0",
-                            "PT": "16"
-                        },
-                        {
-                            "POS": "6",
+                            "POS": "11",
                             "AGP": "18572",
                             "NOMBRE": "MOHAMED FETTAH",
                             "P1": "8",
@@ -3891,67 +3951,19 @@
                             "PT": "15"
                         },
                         {
-                            "POS": "7",
-                            "AGP": "18559",
-                            "NOMBRE": "NELSON RUBEN RODRIGUEZ HERRERA",
-                            "P1": "7",
-                            "P2": "8",
-                            "P3": "",
-                            "PF": "11",
-                            "PC": "12",
-                            "DP": "-1",
-                            "PT": "15"
-                        },
-                        {
-                            "POS": "8",
-                            "AGP": "18021",
-                            "NOMBRE": "ADAN CARBAJALES GARCIA",
-                            "P1": "6",
-                            "P2": "6",
-                            "P3": "",
-                            "PF": "10",
-                            "PC": "13",
-                            "DP": "-3",
-                            "PT": "12"
-                        },
-                        {
-                            "POS": "9",
-                            "AGP": "18598",
-                            "NOMBRE": "AINARA PUGA LOPES",
-                            "P1": "7",
-                            "P2": "5",
-                            "P3": "",
-                            "PF": "4",
-                            "PC": "11",
-                            "DP": "-7",
-                            "PT": "12"
-                        },
-                        {
-                            "POS": "10",
-                            "AGP": "14428",
-                            "NOMBRE": "MARCOS VIGO PEDROUZO",
-                            "P1": "6",
-                            "P2": "5",
-                            "P3": "",
-                            "PF": "5",
-                            "PC": "12",
-                            "DP": "-7",
-                            "PT": "11"
-                        },
-                        {
-                            "POS": "11",
-                            "AGP": "14066",
-                            "NOMBRE": "MARIO BARRAL LAFUENTE",
-                            "P1": "6",
-                            "P2": "5",
-                            "P3": "",
-                            "PF": "5",
-                            "PC": "13",
-                            "DP": "-8",
-                            "PT": "11"
-                        },
-                        {
                             "POS": "12",
+                            "AGP": "18718",
+                            "NOMBRE": "RICARDO ANTONIO GOMEZ ESCOBAR",
+                            "P1": "",
+                            "P2": "0",
+                            "P3": "14",
+                            "PF": "15",
+                            "PC": "7",
+                            "DP": "8",
+                            "PT": "14"
+                        },
+                        {
+                            "POS": "13",
                             "AGP": "18700",
                             "NOMBRE": "ALVARO PASTOR BUGALLO",
                             "P1": "7",
@@ -3963,7 +3975,7 @@
                             "PT": "7"
                         },
                         {
-                            "POS": "13",
+                            "POS": "14",
                             "AGP": "18645",
                             "NOMBRE": "FELIX MARTIÑO DOS SANTOS",
                             "P1": "",
@@ -3973,6 +3985,18 @@
                             "PC": "7",
                             "DP": "-3",
                             "PT": "7"
+                        },
+                        {
+                            "POS": "15",
+                            "AGP": "",
+                            "NOMBRE": "PANA",
+                            "P1": "",
+                            "P2": "",
+                            "P3": "5",
+                            "PF": "2",
+                            "PC": "6",
+                            "DP": "-4",
+                            "PT": "5"
                         }
                     ],
                     "info": [
@@ -3993,14 +4017,74 @@
                             "NOMBRE": "MAFALDA BECERRA BARCA",
                             "P1": "14",
                             "P2": "7",
-                            "P3": "",
-                            "PF": "20",
-                            "PC": "9",
-                            "DP": "11",
-                            "PT": "21"
+                            "P3": "10",
+                            "PF": "32",
+                            "PC": "16",
+                            "DP": "16",
+                            "PT": "31"
                         },
                         {
                             "POS": "2",
+                            "AGP": "18686",
+                            "NOMBRE": "DAVID ESQUENAZ BOUZAS",
+                            "P1": "8",
+                            "P2": "7",
+                            "P3": "14",
+                            "PF": "27",
+                            "PC": "11",
+                            "DP": "16",
+                            "PT": "29"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "18683",
+                            "NOMBRE": "JORDIN STIVEN ROJAS LOZANO",
+                            "P1": "7",
+                            "P2": "10",
+                            "P3": "7",
+                            "PF": "25",
+                            "PC": "22",
+                            "DP": "3",
+                            "PT": "24"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "18687",
+                            "NOMBRE": "LIA LAREDO CASTRO",
+                            "P1": "6",
+                            "P2": "8",
+                            "P3": "8",
+                            "PF": "20",
+                            "PC": "23",
+                            "DP": "-3",
+                            "PT": "22"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "18684",
+                            "NOMBRE": "GABRIEL ALEJANDRO MOLINA RICO",
+                            "P1": "7",
+                            "P2": "8",
+                            "P3": "6",
+                            "PF": "23",
+                            "PC": "21",
+                            "DP": "2",
+                            "PT": "21"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "18709",
+                            "NOMBRE": "MARIA FIGUEIRAS PARIS",
+                            "P1": "7",
+                            "P2": "6",
+                            "P3": "8",
+                            "PF": "13",
+                            "PC": "15",
+                            "DP": "-2",
+                            "PT": "21"
+                        },
+                        {
+                            "POS": "7",
                             "AGP": "18574",
                             "NOMBRE": "MARIA NAVAZA PAZOS",
                             "P1": "10",
@@ -4012,19 +4096,7 @@
                             "PT": "17"
                         },
                         {
-                            "POS": "3",
-                            "AGP": "18683",
-                            "NOMBRE": "JORDIN STIVEN ROJAS LOZANO",
-                            "P1": "7",
-                            "P2": "10",
-                            "P3": "",
-                            "PF": "16",
-                            "PC": "15",
-                            "DP": "1",
-                            "PT": "17"
-                        },
-                        {
-                            "POS": "4",
+                            "POS": "8",
                             "AGP": "18641",
                             "NOMBRE": "VICTORIA GOMEZ FIGUEIRAS",
                             "P1": "8",
@@ -4036,67 +4108,7 @@
                             "PT": "15"
                         },
                         {
-                            "POS": "5",
-                            "AGP": "18686",
-                            "NOMBRE": "DAVID ESQUENAZ BOUZAS",
-                            "P1": "8",
-                            "P2": "7",
-                            "P3": "",
-                            "PF": "15",
-                            "PC": "10",
-                            "DP": "5",
-                            "PT": "15"
-                        },
-                        {
-                            "POS": "6",
-                            "AGP": "18684",
-                            "NOMBRE": "GABRIEL ALEJANDRO MOLINA RICO",
-                            "P1": "7",
-                            "P2": "8",
-                            "P3": "",
-                            "PF": "19",
-                            "PC": "15",
-                            "DP": "4",
-                            "PT": "15"
-                        },
-                        {
-                            "POS": "7",
-                            "AGP": "18718",
-                            "NOMBRE": "RICARDO ANTONIO GOMEZ ESCOBAR",
-                            "P1": "",
-                            "P2": "14",
-                            "P3": "",
-                            "PF": "17",
-                            "PC": "8",
-                            "DP": "9",
-                            "PT": "14"
-                        },
-                        {
-                            "POS": "8",
-                            "AGP": "18687",
-                            "NOMBRE": "LIA LAREDO CASTRO",
-                            "P1": "6",
-                            "P2": "8",
-                            "P3": "",
-                            "PF": "13",
-                            "PC": "14",
-                            "DP": "-1",
-                            "PT": "14"
-                        },
-                        {
                             "POS": "9",
-                            "AGP": "18709",
-                            "NOMBRE": "MARIA FIGUEIRAS PARIS",
-                            "P1": "7",
-                            "P2": "6",
-                            "P3": "",
-                            "PF": "8",
-                            "PC": "9",
-                            "DP": "-1",
-                            "PT": "13"
-                        },
-                        {
-                            "POS": "10",
                             "AGP": "18385",
                             "NOMBRE": "FIZ NAVAZA PAZOS",
                             "P1": "7",
@@ -4108,7 +4120,31 @@
                             "PT": "13"
                         },
                         {
+                            "POS": "10",
+                            "AGP": "18689",
+                            "NOMBRE": "IRIA PIÑEIRO VERDE",
+                            "P1": "6",
+                            "P2": "",
+                            "P3": "6",
+                            "PF": "1",
+                            "PC": "12",
+                            "DP": "-11",
+                            "PT": "12"
+                        },
+                        {
                             "POS": "11",
+                            "AGP": "18690",
+                            "NOMBRE": "NEREA ALONSO IGLESIAS",
+                            "P1": "",
+                            "P2": "6",
+                            "P3": "5",
+                            "PF": "7",
+                            "PC": "10",
+                            "DP": "-3",
+                            "PT": "11"
+                        },
+                        {
+                            "POS": "12",
                             "AGP": "18646",
                             "NOMBRE": "ANTON PAMPIN GONZALEZ",
                             "P1": "6",
@@ -4120,31 +4156,43 @@
                             "PT": "11"
                         },
                         {
-                            "POS": "12",
-                            "AGP": "18690",
-                            "NOMBRE": "NEREA ALONSO IGLESIAS",
+                            "POS": "13",
+                            "AGP": "",
+                            "NOMBRE": "SAMUEL BILBAO LADO",
                             "P1": "",
-                            "P2": "6",
-                            "P3": "",
+                            "P2": "5",
+                            "P3": "6",
                             "PF": "5",
-                            "PC": "7",
-                            "DP": "-2",
-                            "PT": "6"
+                            "PC": "11",
+                            "DP": "-6",
+                            "PT": "11"
                         },
                         {
-                            "POS": "13",
+                            "POS": "14",
                             "AGP": "18020",
                             "NOMBRE": "NAHIR CARBAJALES GARCIA",
                             "P1": "",
                             "P2": "6",
-                            "P3": "",
+                            "P3": "5",
                             "PF": "3",
-                            "PC": "8",
-                            "DP": "-5",
-                            "PT": "6"
+                            "PC": "14",
+                            "DP": "-11",
+                            "PT": "11"
                         },
                         {
-                            "POS": "14",
+                            "POS": "15",
+                            "AGP": "",
+                            "NOMBRE": "BELTRAN VIDAL VILARIÑO",
+                            "P1": "",
+                            "P2": "5",
+                            "P3": "5",
+                            "PF": "3",
+                            "PC": "12",
+                            "DP": "-9",
+                            "PT": "10"
+                        },
+                        {
+                            "POS": "16",
                             "AGP": "18689",
                             "NOMBRE": "IRIA PIÑEIRO VERDE",
                             "P1": "6",
@@ -4156,7 +4204,7 @@
                             "PT": "6"
                         },
                         {
-                            "POS": "15",
+                            "POS": "17",
                             "AGP": "18700",
                             "NOMBRE": "ALVARO PASTOR BUGALLO",
                             "P1": "",
@@ -4165,30 +4213,6 @@
                             "PF": "3",
                             "PC": "6",
                             "DP": "-3",
-                            "PT": "5"
-                        },
-                        {
-                            "POS": "16",
-                            "AGP": "",
-                            "NOMBRE": "SAMUEL BILBAO LADO",
-                            "P1": "",
-                            "P2": "5",
-                            "P3": "",
-                            "PF": "2",
-                            "PC": "6",
-                            "DP": "-4",
-                            "PT": "5"
-                        },
-                        {
-                            "POS": "17",
-                            "AGP": "",
-                            "NOMBRE": "BELTRAN VIDAL VILARIÑO",
-                            "P1": "",
-                            "P2": "5",
-                            "P3": "",
-                            "PF": "1",
-                            "PC": "6",
-                            "DP": "-5",
                             "PT": "5"
                         }
                     ],
@@ -20429,11 +20453,11 @@
                             "NOMBRE": "ROBERTO VARELA SAMPAYO",
                             "P1": "14",
                             "P2": "14",
-                            "P3": "",
-                            "PF": "32",
-                            "PC": "8",
-                            "DP": "24",
-                            "PT": "28"
+                            "P3": "14",
+                            "PF": "48",
+                            "PC": "13",
+                            "DP": "35",
+                            "PT": "42"
                         },
                         {
                             "POS": "2",
@@ -20441,11 +20465,11 @@
                             "NOMBRE": "JOSE ANTONIO FIUNTE LOBELLE",
                             "P1": "8",
                             "P2": "8",
-                            "P3": "",
-                            "PF": "22",
-                            "PC": "23",
-                            "DP": "-1",
-                            "PT": "16"
+                            "P3": "8",
+                            "PF": "34",
+                            "PC": "33",
+                            "DP": "1",
+                            "PT": "24"
                         },
                         {
                             "POS": "3",
@@ -20453,11 +20477,11 @@
                             "NOMBRE": "ROBERTO FIUNTE LOBELLE",
                             "P1": "7",
                             "P2": "8",
-                            "P3": "",
-                            "PF": "17",
-                            "PC": "18",
+                            "P3": "8",
+                            "PF": "27",
+                            "PC": "28",
                             "DP": "-1",
-                            "PT": "15"
+                            "PT": "23"
                         },
                         {
                             "POS": "4",
@@ -20465,14 +20489,26 @@
                             "NOMBRE": "ROBERTO RAJO MOURE",
                             "P1": "8",
                             "P2": "7",
-                            "P3": "",
-                            "PF": "16",
-                            "PC": "19",
-                            "DP": "-3",
-                            "PT": "15"
+                            "P3": "7",
+                            "PF": "22",
+                            "PC": "28",
+                            "DP": "-6",
+                            "PT": "22"
                         },
                         {
                             "POS": "5",
+                            "AGP": "4927",
+                            "NOMBRE": "MANUEL PEREZ VELON",
+                            "P1": "",
+                            "P2": "",
+                            "P3": "10",
+                            "PF": "12",
+                            "PC": "9",
+                            "DP": "3",
+                            "PT": "10"
+                        },
+                        {
+                            "POS": "6",
                             "AGP": "11544",
                             "NOMBRE": "JAVIER MONTES VAZQUEZ",
                             "P1": "10",
@@ -20886,11 +20922,11 @@
                             "NOMBRE": "ERIK FERNANDEZ PUMARES",
                             "P1": "7",
                             "P2": "7",
-                            "P3": "",
-                            "PF": "9",
-                            "PC": "16",
-                            "DP": "-7",
-                            "PT": "14"
+                            "P3": "7",
+                            "PF": "12",
+                            "PC": "24",
+                            "DP": "-12",
+                            "PT": "21"
                         },
                         {
                             "POS": "2",
@@ -20935,11 +20971,11 @@
                             "NOMBRE": "JUAN CARLOS FERNANDEZ URDIALES",
                             "P1": "6",
                             "P2": "10",
-                            "P3": "",
-                            "PF": "14",
-                            "PC": "17",
-                            "DP": "-3",
-                            "PT": "16"
+                            "P3": "6",
+                            "PF": "17",
+                            "PC": "25",
+                            "DP": "-8",
+                            "PT": "22"
                         },
                         {
                             "POS": "2",
@@ -20947,14 +20983,26 @@
                             "NOMBRE": "ALFONSO OTERO FERNÁNDEZ",
                             "P1": "7",
                             "P2": "7",
-                            "P3": "",
-                            "PF": "9",
-                            "PC": "18",
-                            "DP": "-9",
-                            "PT": "14"
+                            "P3": "7",
+                            "PF": "17",
+                            "PC": "27",
+                            "DP": "-10",
+                            "PT": "21"
                         },
                         {
                             "POS": "3",
+                            "AGP": "18736",
+                            "NOMBRE": "MAXIMO BLANCO TABOADA",
+                            "P1": "",
+                            "P2": "6",
+                            "P3": "6",
+                            "PF": "5",
+                            "PC": "16",
+                            "DP": "-11",
+                            "PT": "12"
+                        },
+                        {
+                            "POS": "4",
                             "AGP": "18710",
                             "NOMBRE": "IVAN LIMA PORTO",
                             "P1": "6",
@@ -20963,18 +21011,6 @@
                             "PF": "4",
                             "PC": "8",
                             "DP": "-4",
-                            "PT": "6"
-                        },
-                        {
-                            "POS": "4",
-                            "AGP": "18736",
-                            "NOMBRE": "MAXIMO BLANCO TABOADA",
-                            "P1": "",
-                            "P2": "6",
-                            "P3": "",
-                            "PF": "3",
-                            "PC": "8",
-                            "DP": "-5",
                             "PT": "6"
                         }
                     ],
@@ -20996,11 +21032,11 @@
                             "NOMBRE": "GABRIEL MATIAS GOMEZ FERNANDEZ",
                             "P1": "14",
                             "P2": "7",
-                            "P3": "",
-                            "PF": "15",
-                            "PC": "10",
-                            "DP": "5",
-                            "PT": "21"
+                            "P3": "10",
+                            "PF": "29",
+                            "PC": "15",
+                            "DP": "14",
+                            "PT": "31"
                         },
                         {
                             "POS": "2",
@@ -21008,14 +21044,26 @@
                             "NOMBRE": "RAUDEL ONEL GONZALEZ RODRIGUEZ",
                             "P1": "10",
                             "P2": "10",
-                            "P3": "",
-                            "PF": "22",
-                            "PC": "15",
-                            "DP": "7",
-                            "PT": "20"
+                            "P3": "8",
+                            "PF": "31",
+                            "PC": "23",
+                            "DP": "8",
+                            "PT": "28"
                         },
                         {
                             "POS": "3",
+                            "AGP": "11535",
+                            "NOMBRE": "LUIS MARTIN CASTELLANOS MONTAÑEZ",
+                            "P1": "7",
+                            "P2": "8",
+                            "P3": "6",
+                            "PF": "13",
+                            "PC": "19",
+                            "DP": "-6",
+                            "PT": "21"
+                        },
+                        {
+                            "POS": "4",
                             "AGP": "9071",
                             "NOMBRE": "ANGEL FUENTES CASTRO",
                             "P1": "6",
@@ -21027,31 +21075,67 @@
                             "PT": "20"
                         },
                         {
-                            "POS": "4",
-                            "AGP": "11535",
-                            "NOMBRE": "LUIS MARTIN CASTELLANOS MONTAÑEZ",
-                            "P1": "7",
-                            "P2": "8",
-                            "P3": "",
-                            "PF": "10",
-                            "PC": "13",
-                            "DP": "-3",
-                            "PT": "15"
-                        },
-                        {
                             "POS": "5",
                             "AGP": "18529",
                             "NOMBRE": "ANTIA MERA MARTINEZ",
                             "P1": "8",
                             "P2": "",
-                            "P3": "",
-                            "PF": "10",
-                            "PC": "7",
-                            "DP": "3",
-                            "PT": "8"
+                            "P3": "7",
+                            "PF": "16",
+                            "PC": "14",
+                            "DP": "2",
+                            "PT": "15"
                         },
                         {
                             "POS": "6",
+                            "AGP": "18554",
+                            "NOMBRE": "ANTONIO MERA MARTINEZ",
+                            "P1": "7",
+                            "P2": "",
+                            "P3": "8",
+                            "PF": "15",
+                            "PC": "13",
+                            "DP": "2",
+                            "PT": "15"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "18676",
+                            "NOMBRE": "JOSE ANTONIO RODRIGUEZ TAVAREZ",
+                            "P1": "",
+                            "P2": "",
+                            "P3": "14",
+                            "PF": "12",
+                            "PC": "6",
+                            "DP": "6",
+                            "PT": "14"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "18682",
+                            "NOMBRE": "ONEL GONZALEZ DIAZ",
+                            "P1": "",
+                            "P2": "7",
+                            "P3": "6",
+                            "PF": "5",
+                            "PC": "10",
+                            "DP": "-5",
+                            "PT": "13"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "18653",
+                            "NOMBRE": "MARIA DEL MAR LOPEZ FERNANDEZ",
+                            "P1": "6",
+                            "P2": "",
+                            "P3": "6",
+                            "PF": "1",
+                            "PC": "12",
+                            "DP": "-11",
+                            "PT": "12"
+                        },
+                        {
+                            "POS": "10",
                             "AGP": "18557",
                             "NOMBRE": "ANXO YANES TEIJEIRO",
                             "P1": "8",
@@ -21063,7 +21147,7 @@
                             "PT": "8"
                         },
                         {
-                            "POS": "7",
+                            "POS": "11",
                             "AGP": "18674",
                             "NOMBRE": "KAREL FERNANDEZ ROJAS",
                             "P1": "",
@@ -21075,7 +21159,7 @@
                             "PT": "8"
                         },
                         {
-                            "POS": "8",
+                            "POS": "12",
                             "AGP": "18301",
                             "NOMBRE": "BORJA JAVIER MATOVELLE TRIGO",
                             "P1": "",
@@ -21087,31 +21171,31 @@
                             "PT": "7"
                         },
                         {
-                            "POS": "9",
-                            "AGP": "18554",
-                            "NOMBRE": "ANTONIO MERA MARTINEZ",
-                            "P1": "7",
-                            "P2": "",
-                            "P3": "",
-                            "PF": "4",
-                            "PC": "6",
-                            "DP": "-2",
-                            "PT": "7"
-                        },
-                        {
-                            "POS": "10",
-                            "AGP": "18682",
-                            "NOMBRE": "ONEL GONZALEZ DIAZ",
+                            "POS": "13",
+                            "AGP": "18589",
+                            "NOMBRE": "SARA CASTRO CARBALLIDO",
                             "P1": "",
-                            "P2": "7",
-                            "P3": "",
-                            "PF": "1",
-                            "PC": "4",
-                            "DP": "-3",
+                            "P2": "",
+                            "P3": "7",
+                            "PF": "7",
+                            "PC": "8",
+                            "DP": "-1",
                             "PT": "7"
                         },
                         {
-                            "POS": "11",
+                            "POS": "14",
+                            "AGP": "18470",
+                            "NOMBRE": "DANIEL CASTRO CARBALLIDO",
+                            "P1": "",
+                            "P2": "",
+                            "P3": "7",
+                            "PF": "4",
+                            "PC": "5",
+                            "DP": "-1",
+                            "PT": "7"
+                        },
+                        {
+                            "POS": "15",
                             "AGP": "18291",
                             "NOMBRE": "MARCOS LUIS ORTEGA QUINTANA",
                             "P1": "",
@@ -21123,19 +21207,19 @@
                             "PT": "7"
                         },
                         {
-                            "POS": "12",
-                            "AGP": "18653",
-                            "NOMBRE": "MARIA DEL MAR LOPEZ FERNANDEZ",
-                            "P1": "6",
+                            "POS": "16",
+                            "AGP": "18536",
+                            "NOMBRE": "ALBERTO FERREIRO FOLGUEIRA",
+                            "P1": "",
                             "P2": "",
-                            "P3": "",
-                            "PF": "1",
+                            "P3": "7",
+                            "PF": "0",
                             "PC": "6",
-                            "DP": "-5",
-                            "PT": "6"
+                            "DP": "-6",
+                            "PT": "7"
                         },
                         {
-                            "POS": "13",
+                            "POS": "17",
                             "AGP": "18681",
                             "NOMBRE": "JUAN MANUEL ALLEGUE PACHON",
                             "P1": "",
