@@ -10,6 +10,18 @@
                 "label": "APRILE CUP 2025"
             },
             {
+                "value": "1125-las-vegas-3a-a-coruna",
+                "label": "LAS VEGAS 3a A CORUNA"
+            },
+            {
+                "value": "1127-las-vegas-3a-ordes",
+                "label": "LAS VEGAS 3a ORDES"
+            },
+            {
+                "value": "1126-las-vegas-3a-santiago",
+                "label": "LAS VEGAS 3a SANTIAGO"
+            },
+            {
                 "value": "1083-ranking-2a-a-coruna",
                 "label": "RANKING 2a A CORUNA"
             },
@@ -260,6 +272,10 @@
             {
                 "value": "1119-aprile-cup-2025",
                 "label": "APRILE CUP 2025"
+            },
+            {
+                "value": "1128-las-vegas-3a-lugo",
+                "label": "LAS VEGAS 3a LUGO"
             },
             {
                 "value": "1087-ranking-2a-a-costa",
@@ -558,6 +574,18 @@
             {
                 "value": "1118-aprile-cup-2025",
                 "label": "APRILE CUP 2025"
+            },
+            {
+                "value": "1123-las-vegas-3a-morrazo",
+                "label": "LAS VEGAS 3a MORRAZO"
+            },
+            {
+                "value": "1124-las-vegas-3a-pontevedra---salnes",
+                "label": "LAS VEGAS 3a PONTEVEDRA / SALNES"
+            },
+            {
+                "value": "1122-las-vegas-3a-vigo",
+                "label": "LAS VEGAS 3a VIGO"
             },
             {
                 "value": "1080-ranking-2a-morrazo",

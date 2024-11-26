@@ -1573,6 +1573,381 @@
                 }
             },
             {
+                "ligue": "1125-las-vegas-3a-a-coruna",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "14328",
+                            "NOMBRE": "AARON CERNADAS CONDE",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "4",
+                            "DP": "12",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "3228",
+                            "NOMBRE": "JOSE LOPEZ CALVETE",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "13",
+                            "PC": "13",
+                            "DP": "0",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "14424",
+                            "NOMBRE": "RICARDO MONTES BALBIS",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "4",
+                            "DP": "6",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "9143",
+                            "NOMBRE": "YAGO GONZALEZ TEIJEIRO",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "12",
+                            "PC": "12",
+                            "DP": "0",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "9162",
+                            "NOMBRE": "JOSE GONZALEZ YAÑEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "7",
+                            "PC": "8",
+                            "DP": "-1",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "5222",
+                            "NOMBRE": "CARLOS DAVID LOUREDA PARRADO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "7",
+                            "PC": "9",
+                            "DP": "-2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "17811",
+                            "NOMBRE": "CARLOS JOSE BLANCO SAAVEDRA",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "1",
+                            "PC": "8",
+                            "DP": "-7",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "3224",
+                            "NOMBRE": "SERGIO MARTINEZ CAMPELO",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "0",
+                            "PC": "8",
+                            "DP": "-8",
+                            "PT": "60"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA A CORUÑA",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
+                    ]
+                }
+            },
+            {
+                "ligue": "1127-las-vegas-3a-ordes",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "17266",
+                            "NOMBRE": "MAIKEL SILVIERA SEOANE",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "3",
+                            "DP": "13",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "14527",
+                            "NOMBRE": "MARIO LOURIDO MENAYA",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "13",
+                            "PC": "12",
+                            "DP": "1",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "11539",
+                            "NOMBRE": "ADRIAN TRIGO PENSADO",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "11",
+                            "PC": "6",
+                            "DP": "5",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "18176",
+                            "NOMBRE": "SERGIO GARROTE BECERRA",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "11",
+                            "DP": "-1",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "17011",
+                            "NOMBRE": "JOSE ANGEL GARROTE FAYA",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "5",
+                            "PC": "9",
+                            "DP": "-4",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "18497",
+                            "NOMBRE": "CHRISTIAN VARGAS SANCHEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "5",
+                            "PC": "11",
+                            "DP": "-6",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "18321",
+                            "NOMBRE": "IHOSVANY ALVAREZ LOPEZ",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "8",
+                            "DP": "-4",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "18277",
+                            "NOMBRE": "ANTIA BECERRA FRAGA",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "8",
+                            "DP": "-4",
+                            "PT": "60"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA ORDES",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
+                    ]
+                }
+            },
+            {
+                "ligue": "1126-las-vegas-3a-santiago",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "18594",
+                            "NOMBRE": "ANTONIO PUGA VEIGA",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "20",
+                            "PC": "11",
+                            "DP": "9",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "18735",
+                            "NOMBRE": "JACOBO LUIS CASAL MOSQUERA",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "10",
+                            "DP": "6",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "17583",
+                            "NOMBRE": "ANTONIO REY VAZQUEZ",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "13",
+                            "DP": "3",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "18538",
+                            "NOMBRE": "OSCAR JOSE FERNANDEZ BARGE",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "9",
+                            "PC": "10",
+                            "DP": "-1",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "6830",
+                            "NOMBRE": "JOSE VAZQUEZ FERNANDEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "8",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "17227",
+                            "NOMBRE": "JOSE CARLOS FERREIRO RODRIGUEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "9",
+                            "PC": "7",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "18572",
+                            "NOMBRE": "MOHAMED FETTAH",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "9",
+                            "PC": "8",
+                            "DP": "1",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "18718",
+                            "NOMBRE": "RICARDO ANTONIO GOMEZ ESCOBAR",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "9",
+                            "PC": "11",
+                            "DP": "-2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "18021",
+                            "NOMBRE": "ADAN CARBAJALES GARCIA",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "8",
+                            "DP": "-4",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "10",
+                            "AGP": "18695",
+                            "NOMBRE": "FRANCISCO JOSE PRIETO ALVAREZ",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "11",
+                            "AGP": "18540",
+                            "NOMBRE": "ANGEL BOTANA GARCIA",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "12",
+                            "AGP": "18138",
+                            "NOMBRE": "IAGO PADRON COUSILLAS",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "2",
+                            "PC": "8",
+                            "DP": "-6",
+                            "PT": "60"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA SANTIAGO",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
+                    ]
+                }
+            },
+            {
                 "ligue": "1083-ranking-2a-a-coruna",
                 "table": {
                     "tableInfo": [
@@ -4193,18 +4568,6 @@
                         },
                         {
                             "POS": "16",
-                            "AGP": "18689",
-                            "NOMBRE": "IRIA PIÑEIRO VERDE",
-                            "P1": "6",
-                            "P2": "",
-                            "P3": "",
-                            "PF": "0",
-                            "PC": "6",
-                            "DP": "-6",
-                            "PT": "6"
-                        },
-                        {
-                            "POS": "17",
                             "AGP": "18700",
                             "NOMBRE": "ALVARO PASTOR BUGALLO",
                             "P1": "",
@@ -19873,6 +20236,163 @@
                         "PRUEBAS ORO : RG7 (1, 2, 3, 4, 5 y 6) = Prueba Ranking Gallego Absoluto 7 pies",
                         "PRUEBAS PLATA : PTO (1 y 2) = Prueba Pool Tour",
                         "PRUEBAS BRONCE : Otros torneos homologados por la AGP - Abiertos a todas las categorías con un mínimo de 24 jugadores"
+                    ]
+                }
+            },
+            {
+                "ligue": "1128-las-vegas-3a-lugo",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "18533",
+                            "NOMBRE": "AAKASH TUFCHI",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "20",
+                            "PC": "8",
+                            "DP": "12",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "2299",
+                            "NOMBRE": "FRANCISCO JAVIER GARCIA BAAMONDE",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "23",
+                            "PC": "10",
+                            "DP": "13",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "3588",
+                            "NOMBRE": "ENRIQUE FREIRE VAZQUEZ",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "14",
+                            "PC": "13",
+                            "DP": "1",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "14110",
+                            "NOMBRE": "OSCAR JAIME FERNANDEZ FREIRE",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "12",
+                            "PC": "14",
+                            "DP": "-2",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "11604",
+                            "NOMBRE": "JAVIER CATOIRA FERNANDEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "12",
+                            "PC": "10",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "11608",
+                            "NOMBRE": "FELIX MENDEZ GALDO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "8",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "17880",
+                            "NOMBRE": "DANIEL JESUS RODRIGUEZ PIÑEIRO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "8",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "18468",
+                            "NOMBRE": "ANXO LOIS DE GABRIEL",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "6",
+                            "PC": "4",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "14989",
+                            "NOMBRE": "MAR EXPOSITO VILLAR",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "8",
+                            "PC": "9",
+                            "DP": "-1",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "10",
+                            "AGP": "18581",
+                            "NOMBRE": "PABLO MAGIDE LOPEZ",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "7",
+                            "PC": "9",
+                            "DP": "-2",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "11",
+                            "AGP": "11217",
+                            "NOMBRE": "MICAEL TIMIRAOS EXPOSITO",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "12",
+                            "AGP": "4630",
+                            "NOMBRE": "JOSE ANTONIO MERA LOPEZ",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "2",
+                            "PC": "8",
+                            "DP": "-6",
+                            "PT": "60"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA LUGO",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
                     ]
                 }
             },
@@ -44232,6 +44752,525 @@
                         "PRUEBAS ORO : RG7 (1, 2, 3, 4, 5 y 6) = Prueba Ranking Gallego Absoluto 7 pies",
                         "PRUEBAS PLATA : PTO (1 y 2) = Prueba Pool Tour",
                         "PRUEBAS BRONCE : Otros torneos homologados por la AGP - Abiertos a todas las categorías con un mínimo de 24 jugadores"
+                    ]
+                }
+            },
+            {
+                "ligue": "1123-las-vegas-3a-morrazo",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "17305",
+                            "NOMBRE": "DANIEL PEREIRA PIDRE",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "4",
+                            "DP": "12",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "18285",
+                            "NOMBRE": "UXIO GERMADE MARTINEZ",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "17",
+                            "PC": "17",
+                            "DP": "0",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "14142",
+                            "NOMBRE": "PABLO GIL COLLAZO",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "17",
+                            "PC": "13",
+                            "DP": "4",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "18018",
+                            "NOMBRE": "LEONARDO ESTIGARRIBIA TORRES",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "11",
+                            "PC": "9",
+                            "DP": "2",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "17030",
+                            "NOMBRE": "CARLOS RODRIGUEZ ALONSO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "13",
+                            "PC": "10",
+                            "DP": "3",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "11003",
+                            "NOMBRE": "ANGEL BERNARDEZ SOLIÑO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "12",
+                            "PC": "13",
+                            "DP": "-1",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "2619",
+                            "NOMBRE": "JUAN CARLOS BATALLER AGUADO",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "5",
+                            "PC": "8",
+                            "DP": "-3",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "17268",
+                            "NOMBRE": "PEDRO JOSE FORMOSO CORDEIRO",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "18451",
+                            "NOMBRE": "AGUSTIN IGLESIAS PENA",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "50"
+                        },
+                        {
+                            "POS": "10",
+                            "AGP": "9631",
+                            "NOMBRE": "ALBERTO GONZALEZ TORRES",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "2",
+                            "PC": "8",
+                            "DP": "-6",
+                            "PT": "50"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA MORRAZO",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
+                    ]
+                }
+            },
+            {
+                "ligue": "1124-las-vegas-3a-pontevedra---salnes",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "14353",
+                            "NOMBRE": "ALVARO CRUJEIRAS ROUCO",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "18",
+                            "PC": "12",
+                            "DP": "6",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "18127",
+                            "NOMBRE": "JORGE SAYANS IGLESIAS",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "7",
+                            "DP": "3",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "9890",
+                            "NOMBRE": "JORGE SANTAMARIA CACABELOS",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "8",
+                            "PC": "8",
+                            "DP": "0",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "18290",
+                            "NOMBRE": "EVARSITO PADIN GARCIA",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "8",
+                            "PC": "11",
+                            "DP": "-3",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "18150",
+                            "NOMBRE": "ADRIAN VEIGA RODRIGUEZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "8",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "17595",
+                            "NOMBRE": "JUAN CARLOS RODRIGUEZ ARES",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "10",
+                            "PC": "11",
+                            "DP": "-1",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "18097",
+                            "NOMBRE": "JESUS PORTELA CASTRO",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "1",
+                            "PC": "8",
+                            "DP": "-7",
+                            "PT": "60"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA PONTEVEDRA / SALNÉS",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
+                    ]
+                }
+            },
+            {
+                "ligue": "1122-las-vegas-3a-vigo",
+                "table": {
+                    "tableInfo": [
+                        {
+                            "POS": "1",
+                            "AGP": "18482",
+                            "NOMBRE": "ELKIN RAFAEL SARMIENTO MARTINEZ",
+                            "P1": "100",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "24",
+                            "PC": "5",
+                            "DP": "19",
+                            "PT": "100"
+                        },
+                        {
+                            "POS": "2",
+                            "AGP": "14713",
+                            "NOMBRE": "PABLO RUA AVENDAÑO",
+                            "P1": "90",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "22",
+                            "PC": "13",
+                            "DP": "9",
+                            "PT": "90"
+                        },
+                        {
+                            "POS": "3",
+                            "AGP": "6031",
+                            "NOMBRE": "MIGUEL UCHA RODRIGUEZ",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "19",
+                            "PC": "8",
+                            "DP": "11",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "4",
+                            "AGP": "11556",
+                            "NOMBRE": "CHRISTIAN LO RE DOMINGUEZ",
+                            "P1": "80",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "17",
+                            "PC": "12",
+                            "DP": "5",
+                            "PT": "80"
+                        },
+                        {
+                            "POS": "5",
+                            "AGP": "11732",
+                            "NOMBRE": "ADRIAN MAQUIEIRA PEREIRA",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "16",
+                            "PC": "11",
+                            "DP": "5",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "6",
+                            "AGP": "17775",
+                            "NOMBRE": "ADRIAN PENELA ALVAREZ",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "14",
+                            "PC": "11",
+                            "DP": "3",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "7",
+                            "AGP": "11080",
+                            "NOMBRE": "CHRISTIAN ALVAREZ SOBRINO",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "9",
+                            "PC": "7",
+                            "DP": "2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "8",
+                            "AGP": "18624",
+                            "NOMBRE": "PAUL ANDREW LEFEVRE",
+                            "P1": "70",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "12",
+                            "PC": "14",
+                            "DP": "-2",
+                            "PT": "70"
+                        },
+                        {
+                            "POS": "9",
+                            "AGP": "4715",
+                            "NOMBRE": "OSCAR LIZ CONDE",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "14",
+                            "PC": "9",
+                            "DP": "5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "10",
+                            "AGP": "18537",
+                            "NOMBRE": "ISAAC MARTINEZ NANDE",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "13",
+                            "PC": "8",
+                            "DP": "5",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "11",
+                            "AGP": "9401",
+                            "NOMBRE": "ESTEBAN AIRA RODRIGUEZ",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "13",
+                            "PC": "10",
+                            "DP": "3",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "12",
+                            "AGP": "5241",
+                            "NOMBRE": "CRISTIAN LAGO MOLARES",
+                            "P1": "60",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "8",
+                            "PC": "11",
+                            "DP": "-3",
+                            "PT": "60"
+                        },
+                        {
+                            "POS": "13",
+                            "AGP": "2142",
+                            "NOMBRE": "GUSTAVO MARTINEZ TABOADA",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "8",
+                            "PC": "10",
+                            "DP": "-2",
+                            "PT": "50"
+                        },
+                        {
+                            "POS": "14",
+                            "AGP": "18547",
+                            "NOMBRE": "IVAN COSTAS CEA",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "6",
+                            "PC": "10",
+                            "DP": "-4",
+                            "PT": "50"
+                        },
+                        {
+                            "POS": "15",
+                            "AGP": "14213",
+                            "NOMBRE": "OMAR BERLIER CEA",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "8",
+                            "DP": "-4",
+                            "PT": "50"
+                        },
+                        {
+                            "POS": "16",
+                            "AGP": "18737",
+                            "NOMBRE": "KIRK GROBA LEFEVRE",
+                            "P1": "50",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "50"
+                        },
+                        {
+                            "POS": "17",
+                            "AGP": "14566",
+                            "NOMBRE": "JOSE LUIS DOMINGUEZ IGLESIAS",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "5",
+                            "PC": "8",
+                            "DP": "-3",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "18",
+                            "AGP": "18135",
+                            "NOMBRE": "FRANCISCO SALGADO GAY",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "8",
+                            "DP": "-4",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "19",
+                            "AGP": "14965",
+                            "NOMBRE": "BRYAN COEDO VILA",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "3",
+                            "PC": "8",
+                            "DP": "-5",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "20",
+                            "AGP": "17843",
+                            "NOMBRE": "NAIR RODRIGUEZ DOMINGUEZ",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "4",
+                            "PC": "11",
+                            "DP": "-7",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "21",
+                            "AGP": "18380",
+                            "NOMBRE": "SERGIO DOMINGUEZ ALONSO",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "1",
+                            "PC": "8",
+                            "DP": "-7",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "22",
+                            "AGP": "18666",
+                            "NOMBRE": "NICOLAS CALABRESI FERREYRA",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "0",
+                            "PC": "8",
+                            "DP": "-8",
+                            "PT": "40"
+                        },
+                        {
+                            "POS": "23",
+                            "AGP": "18665",
+                            "NOMBRE": "JOSE PABLO CALABRESI GRANARA",
+                            "P1": "40",
+                            "P2": "",
+                            "P3": "",
+                            "PF": "0",
+                            "PC": "8",
+                            "DP": "-8",
+                            "PT": "40"
+                        }
+                    ],
+                    "info": [
+                        "RANKING LAS VEGAS 3ª/4ª CATEGORÍA VIGO",
+                        "",
+                        "",
+                        "> Al menos el 50% de los jugadores se clasifican para la Final Regional que se disputará en el mes de Julio"
                     ]
                 }
             },
