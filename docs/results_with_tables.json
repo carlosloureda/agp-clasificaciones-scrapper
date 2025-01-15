@@ -5293,8 +5293,8 @@
                         },
                         {
                             "POS": "11",
-                            "AGP": "",
-                            "NOMBRE": "OSCAR",
+                            "AGP": "18781",
+                            "NOMBRE": "OSCAR ROMERO VAZQUEZ",
                             "P4": "",
                             "P5": "6",
                             "P6": "",
@@ -24131,6 +24131,18 @@
                         },
                         {
                             "POS": "25",
+                            "AGP": "18109",
+                            "NOMBRE": "ANGEL SANGIAO ARGÜESO",
+                            "P4": "5",
+                            "P5": "",
+                            "P6": "",
+                            "PF": "6",
+                            "PC": "8",
+                            "DP": "-2",
+                            "PT": "5"
+                        },
+                        {
+                            "POS": "26",
                             "AGP": "18581",
                             "NOMBRE": "PABLO MAGIDE LOPEZ",
                             "P4": "5",
@@ -24142,7 +24154,7 @@
                             "PT": "5"
                         },
                         {
-                            "POS": "26",
+                            "POS": "27",
                             "AGP": "3339",
                             "NOMBRE": "PABLO RODRIGUEZ CASTRO",
                             "P4": "5",
@@ -24154,7 +24166,7 @@
                             "PT": "5"
                         },
                         {
-                            "POS": "27",
+                            "POS": "28",
                             "AGP": "18612",
                             "NOMBRE": "MAIKEL FERREIRA RAMOS",
                             "P4": "5",
@@ -24164,18 +24176,6 @@
                             "PC": "8",
                             "DP": "-8",
                             "PT": "5"
-                        },
-                        {
-                            "POS": "28",
-                            "AGP": "18109",
-                            "NOMBRE": "ANGEL SANGIAO ARGÜESO",
-                            "P4": "0",
-                            "P5": "",
-                            "P6": "",
-                            "PF": "0",
-                            "PC": "0",
-                            "DP": "0",
-                            "PT": "0"
                         },
                         {
                             "POS": "29",
