@@ -72,6 +72,10 @@
             {
                 "value": "1111-ranking-4a-santiago-b",
                 "label": "RANKING 4a SANTIAGO B"
+            },
+            {
+                "value": "1129-ranking-junior",
+                "label": "RANKING JUNIOR"
             }
         ],
         "23/24": [
@@ -308,6 +312,10 @@
             {
                 "value": "1107-ranking-4a-lugo",
                 "label": "RANKING 4a LUGO"
+            },
+            {
+                "value": "1131-ranking-junior",
+                "label": "RANKING JUNIOR"
             }
         ],
         "23/24": [
@@ -488,6 +496,10 @@
             {
                 "value": "1099-ranking-4a-ourense",
                 "label": "RANKING 4a OURENSE"
+            },
+            {
+                "value": "1132-ranking-junior",
+                "label": "RANKING JUNIOR"
             }
         ],
         "23/24": [
@@ -630,6 +642,10 @@
             {
                 "value": "1109-ranking-4a-vigo",
                 "label": "RANKING 4a VIGO"
+            },
+            {
+                "value": "1130-ranking-junior",
+                "label": "RANKING JUNIOR"
             }
         ],
         "23/24": [
